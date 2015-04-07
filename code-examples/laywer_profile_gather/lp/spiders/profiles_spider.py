@@ -7,7 +7,7 @@ import csv
 
 class ProfilesSpider(Spider):
     name = "profiles"
-    allowed_domains = ["http://pview.findlaw.com"]
+    allowed_domains = ["MAIN_URL_HERE"]
     # start_urls = ['http://pview.findlaw.com/view/4358064_1',
     #               'http://pview.findlaw.com/view/3020130_1',
     #               'http://pview.findlaw.com/view/1724275_1']
